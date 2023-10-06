@@ -1,0 +1,117 @@
+.bannar{
+    background: black;
+    box-sizing: border-box;    
+    box-shadow:-0px -1px 5px orange;
+}
+.banner-img{
+    width: 100%;
+    height: 350px;
+}
+.banner-shadow{
+    box-sizing: border-box;
+    box-shadow: -20px 0px 100px #0d6efd;
+}
+.rigt-w70{
+    width: 70%;
+   box-sizing: border-box;   
+}
+.border-bottom-shadow{
+    box-sizing: border-box;    
+    box-shadow:-0px -1px 5px orange;
+}
+.nav-colorr li a{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 4px 20px;
+}
+.nav-colorr li a:hover{
+    background: #0d6efd;
+    color: orange;
+    box-sizing: border-box;
+    box-shadow:1px 1px 20px orange;
+    transition: 2s;
+    /* border-left:1px solid white ;
+    border-right:1px solid white ; */
+}
+.img-size{
+    width: 100%;
+}
+.about{
+    margin: 100px 0px;
+}
+.m-top-about{
+    margin: 120px 0px;
+
+}
+.line{
+    width: 80%;
+    margin: auto;
+}
+.btn-hover:hover{
+    background: #0d6efd;
+    color: orange;
+    box-sizing: border-box;
+    box-shadow:1px 1px 20px orange;
+    transition: 2s;
+}
+.icon-hover:hover{   
+    box-shadow:1px 1px 20px orange;
+    transition: 2s;
+}
+.m-top-h{
+    margin-top: -40px;
+}
+.portfolio-img{
+    background: url(../images/eye.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: -4px !important;
+}
+.carousel-wit{
+    width: 60%;
+    margin-top:400px !important;
+    color: white !important ;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 20px #0d6efd;
+}
+
+.testi-img{
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+    background: #0d6efd;
+    border:2px solid orange;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: 180px;
+  
+}
+.testi-img:hover{
+    background: orange;    
+    box-sizing: border-box;
+    border:2px solid white;
+    box-shadow:1px 1px 20px #0d6efd;
+    transition: 2s;
+}
+.action-to-call{
+    text-align: center;
+    background: url(../images/eye.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25px 0px;
+    margin-top: 50px;
+    box-shadow: -20px 0px 100px #0d6efd;
+}
+.map{
+    box-shadow: -20px 0px 100px #0d6efd;
+}
+.footer{
+    color: white;
+    background: url(../images/eye.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 20px 0px;
+}
